@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Number Guessing Game</title>
+  <link rel="icon" href="game1.svg">
+  <link rel="stylesheet" href="Style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+  <h1 id="heading">Guess The Number !</h1>
+  <div id="box">?</div>
+  <span id="attemptsdisplay"> <span>Attempts ==></span>1</span>
+  <p id="rul">
+    < Between 1 to 100 and Max Attempts are 3>
+  </p>
+  <input type="text" id="guess" placeholder="Guess Number">
+  <div>
+  <button id="checkbtn">Check! </button> <button id="restart">Restart &#x21BB;</button>
+  </div>
+  <div id="msgbox">
+    <p id="message">Messgae Box</p>
+  </div>
+  <audio id="winsound" src="winners_W9Cpenj.mp3"></audio>
+  <audio id="guesswrong" src="fahhhhh.mp3"></audio>
+  <audio id="attmfins" src="spongebob-fail.mp3"></audio>
+  <audio id="clksouncd" src="mouse.mp3"></audio>
+
+
+  <script src="numberguessinggame.js"></script>
+</body>
+
+</html>

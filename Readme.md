@@ -4,7 +4,7 @@ A simple and fun **Number Guessing Game** built using HTML, CSS, and JavaScript.
 
 ## 🔴 Live Demo
 
-👉 [![Demo](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://siddharth-prajapat.github.io/Number.Guessing.Game/)
+👉 [![Demo](https://img.shields.io/badge/Demo-555555?style=for-the-badge)](https://github.com/Siddharth-Prajapat/Number.Guessing.Game)
 
 
 

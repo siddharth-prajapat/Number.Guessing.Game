@@ -7,11 +7,6 @@ A simple and fun **Number Guessing Game** built using HTML, CSS, and JavaScript.
 👉[![Demo](https://img.shields.io/badge/Demo-%231877F2.svg?logo=Demo&logoColor=white)](https://siddharth-prajapat.github.io/Number.Guessing.Game/)
 
 
-
-**[Play Now](https://siddharth-prajapat.github.io/Number.Guessing.Game/)**
-
-![Game Preview](screenshots/game-preview.png)
-
 ---
 
 ## 🚀 Features

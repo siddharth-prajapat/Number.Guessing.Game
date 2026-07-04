@@ -47,7 +47,7 @@ Number.Guessing.Game/
 
 ## ▶️ How to Play
 
-1. Open the 👉 [Live Demo](https://siddharth-prajapat.github.io/Number.Guessing.Game/)
+1. Open the 👉 [![Demo](https://img.shields.io/badge/Demo-%231877F2.svg?logo=Demo&logoColor=white)](https://siddharth-prajapat.github.io/Number.Guessing.Game/)
 2. Enter a number between **1 and 100** in the input box
 3. Click **Check!** to submit your guess
 4. You have a maximum of **3 attempts** to guess the correct number

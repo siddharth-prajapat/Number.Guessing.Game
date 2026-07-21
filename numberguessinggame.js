@@ -7,6 +7,16 @@ let attemptsdisplay = document.getElementById("attemptsdisplay");
 let winsound = document.getElementById("winsound");
 let guesswrong = document.getElementById("guesswrong");
 let attmfins = document.getElementById("attmfins");
+let ddark = document.getElementById("dark");
+let light = document.getElementById("light");
+dark.addEventListener("click",function(){
+    clksouncd.play();
+    document.body.style.backgroundColor = "black";
+})
+light.addEventListener("click",function(){
+    clksouncd.play();
+   document.body.style.backgroundColor = "white";
+})
 checkbtn.addEventListener("click",function(){
     clksouncd.play();
      let Usernumber = Number(document.getElementById("guess").value);

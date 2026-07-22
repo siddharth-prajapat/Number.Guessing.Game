@@ -18,6 +18,7 @@ A simple and fun **Number Guessing Game** built using HTML, CSS, and JavaScript.
 - 🔄 Restart button to play again
 - 🔊 Sound effects for win, wrong guess, and game over
 - 📱 Mobile and tablet responsive design
+-    Dark or Light Mode Option
 
 ---
 
